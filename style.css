@@ -1,0 +1,47 @@
+#wrapper {
+	height: 500px;
+	width: 500px;
+}
+
+input {
+	width: 425px;
+	height: 5px;
+	padding: 5px;
+}
+
+button {
+	width: 25px;
+	height: 25px;
+	padding: 5px;
+}
+
+img {
+	width: 128px;
+	height: 198px;
+}
+
+.literature {
+	width: 400px;
+	height: 220px;
+}
+
+.photo {
+	width: 128px;
+	height: 198px;
+	display: inline-block;
+}
+
+.info {
+	width: 250px;
+	height: 198px;
+	display: inline-block;
+	text-align: center;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
+
+
+

@@ -1,0 +1,22 @@
+{
+    "name": "Recommended Reading",
+    "version": "1.0",
+    "description": "Learn everywhere you go.",
+    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "browser_action": {
+    	"default_popup": "popup.html",
+    	"default_icon": {
+        "16": "images/icon_BD.png",
+        "32": "images/icon_BD.png",
+        "48": "images/icon_BD.png",
+        "128": "images/icon_BD.png"
+      }
+    },
+    "icons": {
+      "16": "images/icon_BD.png",
+      "32": "images/icon_BD.png",
+      "48": "images/icon_BD.png",
+      "128": "images/icon_BD.png"
+    },
+    "manifest_version": 2
+  } 
