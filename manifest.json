@@ -1,5 +1,5 @@
 {
-    "name": "Recommended Reading",
+    "name": "Read Into It",
     "version": "1.0",
     "description": "Learn everywhere you go.",
     "permissions": ["activeTab", "declarativeContent", "storage"],
