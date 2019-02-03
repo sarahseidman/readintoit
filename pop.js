@@ -29,8 +29,8 @@ var render = function(response){
 
 		var url = response.items[i].volumeInfo.imageLinks ? response.items[i].volumeInfo.imageLinks.smallThumbnail : "./images/notavailable.png";
 		var info = response.items[i].volumeInfo.infoLink ? response.items[i].volumeInfo.infoLink : " ";
-		var title = response.items[i].volumeInfo.title ? response.items[i].volumeInfo.title : "none";
-		var author = response.items[i].volumeInfo.authors ? response.items[i].volumeInfo.authors[0] : "none";
+		var title = response.items[i].volumeInfo.title ? response.items[i].volumeInfo.title : "";
+		var author = response.items[i].volumeInfo.authors ? response.items[i].volumeInfo.authors[0] : "";
 
 		//why isn't it inserting AS a h2?
 		var t = $("<h1>");
