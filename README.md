@@ -1,1 +1,3 @@
-This is an extension that allows a user to search for books from any tab.
+Recommended Reading
+===
+With Recommended Reading, you can learn more about the things that you read online. From any webpage, search in this extension to see books related to the articles and content you read, courtesy of the Google Books API.
