@@ -1,3 +1,8 @@
+body {
+	/*background-color: #b1c4e2;*/
+	background-image: linear-gradient(to bottom right, white, #b1c4e2);
+}
+
 #wrapper {
 	height: 500px;
 	width: 500px;
@@ -29,6 +34,7 @@ img {
 	width: 128px;
 	height: 198px;
 	display: inline-block;
+	margin: 5px;
 }
 
 .info {
@@ -36,10 +42,13 @@ img {
 	height: 198px;
 	display: inline-block;
 	text-align: center;
+	margin: 5px;
 }
 
 h1 {
 	text-decoration: underline;
+	font-family: "Cinzel", serif;
+	font-weight: bold;
 }
 
 
